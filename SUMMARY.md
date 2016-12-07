@@ -61,4 +61,7 @@
     * [移动应用主流开发方式](移动应用主流开发方式.md)
     * [混合之道、趋势](混合之道、趋势.md)
     * [mobile平台对多元化的支持](mobile平台对多元化的支持.md)
+        * [（1）    Hybrid-Native：原生混合](（1）----hybrid-native：原生混合.md)
+        * [（2）    Hybrid-HTML5](（2）----hybrid-html5.md)
+        * [（3）    Web App](（3）----web-app.md)
 
