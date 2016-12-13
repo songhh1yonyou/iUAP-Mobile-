@@ -18,4 +18,5 @@ iuap mobile平台面对移动开发模式的多元化的支持，可以用下图
 三条分支对应的框架图：  
 ![](/assets/111.png)  
                                                                                      图i UAP Mobile Hybrid开发模式全景
+[](/（1）----hybrid-native：原生混合.md)
 
