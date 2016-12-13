@@ -1,3 +1,11 @@
+>来自：用友技术学院
+
+>作者：SH
+
+>链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/企业移动管理emmv30.html
+
+>编辑:肖婷
+
 #企业移动管理EMM===v3.0
 
 ##EMM由来

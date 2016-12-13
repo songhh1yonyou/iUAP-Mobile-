@@ -1,3 +1,11 @@
+>来自：用友技术学院
+
+>作者：SH
+
+>链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/iuap-mobile平台介绍.html
+
+>编辑:肖婷
+
 #iuap Mobile平台介绍
 
 ##平台理念
