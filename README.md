@@ -4,8 +4,8 @@
 
 >作者：SH
 
->链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/技术前瞻性.html
->
+>链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/
+
 >编辑:肖婷
 
 ![](/assets/132.png)
