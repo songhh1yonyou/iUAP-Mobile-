@@ -1,9 +1,11 @@
 # iUAP Mobile二级内容介绍
 
 >来自：用友技术学院
->作者：SH
->链接：[http://udn.yyuap.com/doc/train/iUAP-Mobile-/%E5%B9%B3%E5%8F%B0%E4%BB%B7%E5%80%BC.html](http://udn.yyuap.com/doc/train/iUAP-Mobile-/%E5%B9%B3%E5%8F%B0%E4%BB%B7%E5%80%BC.html)
 
+>作者：SH
+
+>链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/技术前瞻性.html
+>
 >编辑:肖婷
 
 ![](/assets/132.png)
