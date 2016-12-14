@@ -4,7 +4,7 @@
 
 >链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/企业移动管理emmv30.html
 
->编辑:肖婷
+>编辑：肖婷
 
 #企业移动管理EMM===v3.0
 

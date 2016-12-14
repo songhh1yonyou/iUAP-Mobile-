@@ -4,6 +4,6 @@
 
 >链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/ma-server.html
 
->编辑:肖婷
+>编辑：肖婷
 
 >持续更新中

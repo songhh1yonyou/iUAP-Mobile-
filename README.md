@@ -6,7 +6,7 @@
 
 >链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/
 
->编辑:肖婷
+>编辑：肖婷
 
 ![](/assets/132.png)
 

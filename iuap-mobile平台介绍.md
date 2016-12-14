@@ -4,7 +4,7 @@
 
 >链接：http://udn.yyuap.com/doc/train/iUAP-Mobile-/iuap-mobile平台介绍.html
 
->编辑:肖婷
+>编辑：肖婷
 
 #iuap Mobile平台介绍
 
